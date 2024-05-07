@@ -11,3 +11,16 @@
 
 
 </div>
+
+<h2><strong>About me</strong></h2>
+<main>
+  <p style="text-align: justify;">
+    👋 Hello! I'm Ermerson, a technology enthusiast interested in programming and software development, currently studying Internet Systems at the Federal Institute of Education, Science and Technology of Rio Grande do Norte (IFRN).
+    <br><br>
+    📚 Previously, I attended two years of the Science and Technology course at the Federal University of Rio Grande do Norte - UFRN, focusing on areas related to engineering. It was during this time that I had my first contact with the world of software development, sparking my interest in this field.
+    <br><br>
+    💻 My academic journey includes participating in academic rocket technology development teams and science outreach projects in astronomy and astronautics funded by CNPq. Additionally, I have been involved in scientific research projects.
+    <br><br>
+    📝 I'm always open to collaboration and collaborative learning opportunities. If you're interested in working together on interesting projects or exchanging knowledge, feel free to get in touch!
+  </p>
+</main>
