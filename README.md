@@ -3,6 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=72BF24&center=true&vCenter=true&random=false&width=1000&lines=Hello%2C+my+name+is+Ermerson;I'm+student+of+Internet+systems;I'm+from+Brazil)](https://git.io/typing-svg)
 
 <br>
+<div align="center" >
 
 <div align="left">
   
@@ -12,7 +13,14 @@
 
 </div>
 
-<h2><strong>About me</strong></h2>
+<h2 align="center" >Languages and Tools I'm Currently Utilizing</h2>
+
+<br>
+  <img src="https://skillicons.dev/icons?i=python,c,javascript,html,css,nodejs,vscode,github,git" />
+</div>
+<br>
+
+<h2><strong>About me:</strong></h2>
 <main>
   <p style="text-align: justify;">
     👋 Hello! I'm Ermerson, a technology enthusiast interested in programming and software development, currently studying Internet Systems at the Federal Institute of Education, Science and Technology of Rio Grande do Norte (IFRN).
