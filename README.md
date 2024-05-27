@@ -21,7 +21,7 @@
 <br>
 
 <h2 align="center">Languages I Speak or Have Knowledge Of</h2>
-<h3 align="center"> | 🇧🇷 Portuguese  | 🇺🇸 English | 🇫🇷 French | 🇪🇸 Spanish | 🇮🇹 Italian - 🇻🇦 Latin | </h3>
+<h3 align="center">  🇧🇷 Portuguese  | 🇺🇸 English | 🇫🇷 French | 🇪🇸 Spanish | 🇮🇹 Italian | 🇻🇦 Latin  </h3>
 
 <br>
 
