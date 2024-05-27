@@ -20,6 +20,12 @@
 </div>
 <br>
 
+<h2 align="center">Languages I Speak or Have Knowledge Of</h2>
+<h4 align="center"> | 🇧🇷 Portuguese  | 🇺🇸 English | 🇫🇷 French | 🇪🇸 Spanish | 🇮🇹 Italian - 🇻🇦 Latin | </h4>
+
+<br>
+
+
 <h2><strong>About me:</strong></h2>
 <main>
   <p style="text-align: justify;">
