@@ -7,8 +7,8 @@
 
 <div align="left">
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ermersongomes&show_icons=true&theme=dark&hide)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ermersongomes&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ermersongomes&show_icons=true&theme=anuraghazra&repo)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ermersongomes&theme=anuraghazra&repo_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 
 </div>
