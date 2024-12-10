@@ -16,7 +16,7 @@
 <h2 align="center" >Languages and Tools I'm Currently Utilizing</h2>
 
 <br>
-  <img src="https://skillicons.dev/icons?i=java,c,python,javascript,html,css,mysql,nodejs,vscode,github,git" />
+  <img src="https://skillicons.dev/icons?i=java,c,python,javascript,kotlin,html,css,mysql,nodejs,vscode,github,git" />
 </div>
 <br>
 
