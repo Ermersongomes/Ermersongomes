@@ -13,6 +13,7 @@
 
 </div>
 
+
 <h2 align="center" >Languages and Tools I'm Currently Utilizing</h2>
 
 <br>
@@ -38,3 +39,10 @@
     📝 I'm always open to collaboration and collaborative learning opportunities. If you're interested in working together on interesting projects or exchanging knowledge, feel free to get in touch!
   </p>
 </main>
+
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ermersongomes/Ermersongomes/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ermersongomes/Ermersongomes/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Ermersongomes/Ermersongomes/output/github-contribution-grid-snake.svg">
+</picture>
